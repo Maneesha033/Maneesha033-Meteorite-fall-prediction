@@ -4,6 +4,8 @@ An AI-powered web application that predicts whether a meteorite was seen falling
 
 
 
+
+
 ## 🚀 Features
 * **Dual Model Analysis:** Uses both Logistic Regression and Random Forest for prediction.
 * **Interactive UI:** A space-themed dashboard built with Streamlit.
@@ -13,11 +15,15 @@ An AI-powered web application that predicts whether a meteorite was seen falling
 
 
 
+
+
 ## 🛠️ Tech Stack
 * **Python**
 * **Scikit-learn**
 * **Streamlit**
 * **Plotly**
+
+
 
 
 
@@ -31,7 +37,10 @@ An AI-powered web application that predicts whether a meteorite was seen falling
 
 
 
+
+
 ## 🚀 Live Demo Link
 
 🔗 [https://maneesha033-meteorite-fall-prediction-4dctccvx7ittexbkbetwmj.streamlit.app/](https://maneesha033-meteorite-fall-prediction-4dctccvx7ittexbkbetwmj.streamlit.app/)
+
 
